@@ -1,0 +1,2 @@
+[console_scripts]
+bank-accounts = bank_accounts.main:main
